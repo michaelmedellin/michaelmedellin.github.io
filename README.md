@@ -1,2 +1,2 @@
-# michaelmedellin.github.io
-Personal site
+# michaelmedellin.com 
+Personal site for Michael Medellin
